@@ -9,7 +9,11 @@ public class FactBook {
 
     public String[] mFacts = {"The national anthem of Greece has 158 verses",
             "Honey does not spoil. You could feasibly eat 5000 year old honey.",
-            "The brain named itself."};
+            "The brain named itself.",
+
+            "Justin Tew Rocks",
+            "Tequila is the healthiest liquor",
+            "Marijuana is healther than Alcohol"};
 
 
     public String getFact(){
